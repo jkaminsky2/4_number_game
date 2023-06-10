@@ -1,6 +1,20 @@
-# 4 Number Guessing Game
+**[link to 4 Number Guessing Game](https://www.goobix.com/games/guess-the-number/)**
 
-**[link to game](https://www.goobix.com/games/guess-the-number/)**
+## The Game
+
+The game this code works for is a 4-digit number guessing game. Your objective is to guess a 4 digit number (where all the digits are unique) in as little guesses as possible. After every guess, the game will tell you how many digits are correct and in the right place and the number of digits that are correct but in the wrong place. While this game seems easy from the simple set of rules, it is quite difficult to combine information from different guesses, which, if done properly, can result in a lesser amount of guesses. If you do not believe me, try it out yourself (or use my code to help you beat your friends :))!
+---
+## Instructions
+1. Go to the website above.
+2. Copy the code below in a new Jupyter Notebook.
+3. Run the cell block. It will prompt you to enter your first guess. Your guesses should be 4 unique digits with no spaces or other characters (e.x. 1234). Your first guess should ***always*** be **1234**. 
+4. Enter the same guess into the website and hit 'Try it!'. It will then tell you the number of numbers in the correct place and the number of numbers but in the wrong place. Enter these values in that order one-by-one, as prompted by the code (e.x. enter 1, then 'return', then '2', and 'return' again). 
+5. The code will then give you an optimal second guess. Enter this into the website. This time, all you will have to enter are the number of  numbers in the correct place and the number of numbers but in the wrong place (like Step 4).
+6. Repeat Step 5 until you guessed the right number. Enter '4', then 'return', then '0', and 'return' again in order to finish the game from the code side.
+7. Repeat Steps 1-6 for as many games as you want! If you want to see how effective the code is, attempt the game without the code and then with the code; see how many more steps it took you to complete the game (or less if you had a lucky guess :)).
+
+---
+***Always guess 1234 to start***
 
 ## Code
 
