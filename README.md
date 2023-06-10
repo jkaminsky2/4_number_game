@@ -1,4 +1,4 @@
-# 4_number_game
+# 4 Number Guessing Game
 
 ## Code
 
