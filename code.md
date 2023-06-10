@@ -2,11 +2,11 @@
 
 > import itertools
 > import random
-> 
+ 
 > digits = "0123456789"
 > length = 4
 > combinations = list(itertools.permutations(digits, length))
-> 
+
 > def next_best_guess(combinations, last_try, correct, diff_position, total_correct):
 >     if correct == 4:
 >         return ('Correct Guess: ', last_try, correct)
