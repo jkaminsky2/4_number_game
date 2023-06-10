@@ -1,9 +1,13 @@
 **[link to 4 Number Guessing Game](https://www.goobix.com/games/guess-the-number/)**
+
 ---
+
 ## The Game
 
 The game this code works for is a 4-digit number guessing game. Your objective is to guess a 4 digit number (where all the digits are unique) in as little guesses as possible. After every guess, the game will tell you how many digits are correct and in the right place and the number of digits that are correct but in the wrong place. While this game seems easy from the simple set of rules, it is quite difficult to combine information from different guesses, which, if done properly, can result in a lesser amount of guesses. If you do not believe me, try it out yourself (or use my code to help you beat your friends :))!
+
 ---
+
 ## Instructions
 1. Go to the website above.
 2. Copy the code below in a new Jupyter Notebook.
@@ -14,6 +18,7 @@ The game this code works for is a 4-digit number guessing game. Your objective i
 7. Repeat Steps 1-6 for as many games as you want! If you want to see how effective the code is, attempt the game without the code and then with the code; see how many more steps it took you to complete the game (or less if you had a lucky guess :)).
 
 ---
+
 ***Always guess 1234 to start***
 
 ## Code
