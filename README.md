@@ -19,7 +19,7 @@ The game this code works for is a 4-digit number guessing game. Your objective i
 
 ---
 
-***Always guess 1234 to start***
+**Always guess** ***1234*** **to start**
 
 ## Code
 
