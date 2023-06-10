@@ -1,5 +1,7 @@
 # 4 Number Guessing Game
-[link to game](https://www.goobix.com/games/guess-the-number/)
+
+**[link to game](https://www.goobix.com/games/guess-the-number/)**
+
 ## Code
 
     import itertools
